@@ -1,5 +1,5 @@
 [org.gnome.desktop.wm.preferences:i3-GNOME-Flashback]
-button-layout=':appmenu'
+button-layout=':appmenu,spacer,close'
 
 [org.gnome.desktop.background:i3-GNOME-Flashback]
 show-desktop-icons=false
